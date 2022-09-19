@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiyushDolas
-- 👀 I’m interested in Admndriid development.
+- 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Electronics & Telecommunication Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
